@@ -3,6 +3,7 @@ import MSEController from './core/mse-controller.js';
 import IOController from './io/io-controller.js';
 import Remuxer from './core/remuxer.js';
 
+//Main entry
 class Flv {
 
     static isSupported() {
